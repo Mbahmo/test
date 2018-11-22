@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 test
 asdasdsad
+=======
+asdasdsa
+test cabang
+>>>>>>> cabang1
